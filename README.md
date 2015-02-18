@@ -1,2 +1,3 @@
 # stadgar
-Stadgar för CYD-poolen
+[Stadgar för CYD-poolen](./stadgar.md)
+
