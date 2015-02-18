@@ -2,19 +2,20 @@
 
 ## Syfte
 
-CYD-poolen är en politiskt och religiöst obunden samarbetsorganisation för C-, D- och Y-sektionen vid Linköpings Universitet i Linköping.
+CYD-poolen är en politiskt och religiöst obunden samarbetsorganisation för studenter studerandes vid program under D-, Y- och Lingsektionen vid Linköpings Universitet i Linköping.
 CYD-poolen har till ändamål att sköta driften av sektionernas gemensamma datorrum samt webb- applikations- och filhotell.
 
 ### Nyttjanderätt
 
-Rätt att nyttja datorrummet äger, efter erläggande av eventuell nyttjandeavgift, medlemmar i C-, D- och Y-sektionen vid LiTH.
+Rätt att nyttja datorrummet äger, efter erläggande av eventuell nyttjandeavgift, medlemmar i D-, Y-, samt Lingsektionen vid LiTH.
 Styrelsen äger rätt att besluta om inskränkningar i nyttjanderätten.
 
 ### Funktionärer
 
 Funktionärer i CYD-poolen är:
-•	Styrelsen
-•	Systemadministratörerna
+
+*	Styrelsen
+*	Systemadministratörerna
 
 ---------
 
@@ -22,19 +23,19 @@ Funktionärer i CYD-poolen är:
 
 ### Befogenheter
 
-Styrelsen är CYD-poolens högsta beslutande organ. 
+Styrelsen är CYD-poolens högsta beslutande organ.
 
 ### Sammansättning
 
 Styrelsen består av:
-	
-	- En ledamot från vardera D-, Y-och Lingsektionen 
-	- Administrativt ansvarig chef för CYD-poolen, tillsatt av LiU
-	- Två ledamöter från EF-nämden
-	- CYD-poolens systemadministratörer
-	
 
-Sektionernas ledamöter utses av respektive sektions styrelse. 
+	- En ledamot från vardera D-, Y- och Lingsektionen.
+	- Administrativt ansvarig chef för CYD-poolen, tillsatt av LiU.
+	- Två ledamöter från programnänmden data- och medieteknik.
+	- CYD-poolens systemadministratörer.
+
+
+Sektionernas ledamöter utses av respektive sektions styrelse.
 
 Styrelsen utser vid varje mötestillfälle ordförande och sekreterare till någon inom styrelsen.
 
@@ -78,6 +79,6 @@ Justerat protokoll skall distribueras till respektive styrelseledamot senast 20 
 Styrelsen tolkar stadgan. Vid oenighet hänskjutes tolkning av stadgan till av LiU tillsatt administrativ chef.
 
 ### Stadgeändring
-Stadgeändring beslutas av styrelsen. 
+Stadgaändring beslutas av styrelsen.
 
 Ändringen träder, om inget annat sägs, i kraft omgående efter beslut genomförts.
