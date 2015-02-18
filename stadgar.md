@@ -13,8 +13,9 @@ Styrelsen äger rätt att besluta om inskränkningar i nyttjanderätten.
 ### Funktionärer
 
 Funktionärer i CYD-poolen är:
-•	Styrelsen
-•	Systemadministratörerna
+
+*	Styrelsen
+*	Systemadministratörerna
 
 ---------
 
@@ -28,10 +29,10 @@ Styrelsen är CYD-poolens högsta beslutande organ.
 
 Styrelsen består av:
 
-	- En ledamot från vardera D-, Y-och Lingsektionen
-	- Administrativt ansvarig chef för CYD-poolen, tillsatt av LiU
-	- Två ledamöter från EF-nämden
-	- CYD-poolens systemadministratörer
+	- En ledamot från vardera D-, Y- och Lingsektionen.
+	- Administrativt ansvarig chef för CYD-poolen, tillsatt av LiU.
+	- Två ledamöter från programnänmden data- och medieteknik.
+	- CYD-poolens systemadministratörer.
 
 
 Sektionernas ledamöter utses av respektive sektions styrelse.
