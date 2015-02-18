@@ -2,12 +2,12 @@
 
 ## Syfte
 
-CYD-poolen är en politiskt och religiöst obunden samarbetsorganisation för D- och Y-sektionen samt Di- och Ei-programmen vid Linköpings Universitet i Linköping.
+CYD-poolen är en politiskt och religiöst obunden samarbetsorganisation för studenter studerandes vid program under D-, Y- och Lingsektionen vid Linköpings Universitet i Linköping.
 CYD-poolen har till ändamål att sköta driften av sektionernas gemensamma datorrum samt webb- applikations- och filhotell.
 
 ### Nyttjanderätt
 
-Rätt att nyttja datorrummet äger, efter erläggande av eventuell nyttjandeavgift, medlemmar i D- och Y-sektionen samt Di- och Ei-programmen vid LiTH.
+Rätt att nyttja datorrummet äger, efter erläggande av eventuell nyttjandeavgift, medlemmar i D-, Y-, samt Lingsektionen vid LiTH.
 Styrelsen äger rätt att besluta om inskränkningar i nyttjanderätten.
 
 ### Funktionärer
@@ -62,7 +62,7 @@ Ständigt adjungerade är respektive sektions ordförande.
 Utöver röstberättigad må ständigt eller för viss fråga adjungerad närvara med yttrande- och förslagsrätt.
 
 ###	Kallelse
-Styrelsen sammanträder på kallelse av systemadministratörerna. Rätt att hos systemadministratörerna begära utlysande av styrelsemöte tillkommer styrelseledamot.
+Styrelsen sammanträder på kallelse av systemadministratörerna. Rätt att hos systemadministratörerna begära utlysande av styrelsemöte tillkommer styrelseledamot samt respektive sektions styrelsemedlemmar.
 
 ###	Protokoll
 
@@ -79,6 +79,6 @@ Justerat protokoll skall distribueras till respektive styrelseledamot senast 20 
 Styrelsen tolkar stadgan. Vid oenighet hänskjutes tolkning av stadgan till av LiU tillsatt administrativ chef.
 
 ### Stadgeändring
-Stadgeändring beslutas av styrelsen.
+Stadgaändring beslutas av styrelsen.
 
 Ändringen träder, om inget annat sägs, i kraft omgående efter beslut genomförts.
