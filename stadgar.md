@@ -2,29 +2,19 @@
 
 ## Syfte
 
-Den ideella föreningen CYD-poolen är en politiskt och religiöst obunden samarbetsorganisation för C-, D- och Y-sektionen vid Tekniska Högskolan i Linköping.
+CYD-poolen är en politiskt och religiöst obunden samarbetsorganisation för C-, D- och Y-sektionen vid Linköpings Universitet i Linköping.
 CYD-poolen har till ändamål att sköta driften av sektionernas gemensamma datorrum samt webb- applikations- och filhotell.
-
----------
 
 ### Nyttjanderätt
 
 Rätt att nyttja datorrummet äger, efter erläggande av eventuell nyttjandeavgift, medlemmar i C-, D- och Y-sektionen vid LiTH.
 Styrelsen äger rätt att besluta om inskränkningar i nyttjanderätten.
 
----------
-
-## Funktionärer
+### Funktionärer
 
 Funktionärer i CYD-poolen är:
 •	Styrelsen
 •	Systemadministratörerna
-
-### Inspektor
-
-Inspektor skall vid behov bistå föreningen med stadgetolkning samt även i övrigt vara föreningen behjälplig.
-
-Inspektor utses av styrelsen på mandatperiod om två verksamhetsår och skall vara en person verksam inom LiTH. 
 
 ---------
 
