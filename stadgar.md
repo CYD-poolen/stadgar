@@ -62,7 +62,7 @@ Ständigt adjungerade är respektive sektions ordförande.
 Utöver röstberättigad må ständigt eller för viss fråga adjungerad närvara med yttrande- och förslagsrätt.
 
 ###	Kallelse
-Styrelsen sammanträder på kallelse av systemadministratörerna. Rätt att hos systemadministratörerna begära utlysande av styrelsemöte tillkommer styrelseledamot samt respektive sektions styrelsemedlemmar.
+Styrelsen sammanträder på kallelse av systemadministratörerna. Rätt att hos systemadministratörerna begära utlysande av styrelsemöte tillkommer styrelseledamot.
 
 ###	Protokoll
 
