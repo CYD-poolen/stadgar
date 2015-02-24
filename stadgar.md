@@ -28,7 +28,7 @@ Det åliger systemadministratörerna att:
 	- Utefter bästa förmåga underhålla och utveckla CYD-poolen samt dess system.
 	- Erbjuda support vid minst fyra tillfällen i veckan, där varje tillfälle är minst 45 minuter.
 	- Vara lyhörda för behov av IT-stöd som finns hos sektioner och studentorganisationer.
-	- Erbjuda, för sektioner och studenter, atraktiva lösningar. 
+	- Erbjuda, för sektioner och studenter, attraktiva lösningar. 
 
 
 ---------
