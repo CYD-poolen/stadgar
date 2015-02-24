@@ -19,6 +19,20 @@ Funktionärer i CYD-poolen är:
 
 ---------
 
+## Systemadministratörerna
+
+### Åligganden
+
+Det åliger systemadministratörerna att: 
+	
+	- Utefter bästa förmåga underhålla och utveckla CYD-poolen samt dess system.
+	- Erbjuda support vid minst fyra tillfällen i veckan, där varje tillfälle är minst 45 minuter.
+	- Vara lyhörda för behov av IT-stöd som finns hos sektioner och studentorganisationer.
+	- Erbjuda, för sektioner och studenter, atraktiva lösningar. 
+
+
+---------
+
 ## Styrelsen
 
 ### Befogenheter
@@ -68,7 +82,7 @@ Styrelsen sammanträder på kallelse av systemadministratörerna. Rätt att hos 
 
 Protokoll skall föras vid styrelsesammanträde. Protokollet justeras av två vid mötet valda justerare.
 
-Justerat protokoll skall distribueras till respektive styrelseledamot senast 20 dagar efter sammanträdet.
+Justerat protokoll skall distribueras till respektive styrelseledamot samt på CYD-poolens webbplats senast 14 dagar efter sammanträdet.
 
 ---------
 
@@ -81,4 +95,4 @@ Styrelsen tolkar stadgan. Vid oenighet hänskjutes tolkning av stadgan till av L
 ### Stadgeändring
 Stadgaändring beslutas av styrelsen.
 
-Ändringen träder, om inget annat sägs, i kraft omgående efter beslut genomförts.
+Ändringen träder, om inget annat sägs, i kraft omgående efter beslut.
