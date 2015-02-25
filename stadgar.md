@@ -2,12 +2,12 @@
 
 ## Syfte
 
-CYD-poolen är en politiskt och religiöst obunden samarbetsorganisation för studenter studerandes vid program under D-, Y- och Lingsektionen vid Linköpings Universitet i Linköping.
-CYD-poolen har till ändamål att sköta driften av sektionernas gemensamma datorrum samt webb- applikations- och filhotell.
+CYD-poolen är en politiskt och religiöst obunden samarbetsorganisation för studenter studerandes vid program under DM- och EF-nämnden vid Linköpings Universitet i Linköping.
+CYD-poolen har till ändamål att sköta driften av programmens gemensamma datorrum samt webb- applikations- och filhotell.
 
 ### Nyttjanderätt
 
-Rätt att nyttja datorrummet äger, efter erläggande av eventuell nyttjandeavgift, medlemmar i D-, Y-, samt Lingsektionen vid LiTH.
+Rätt att nyttja datorrummet äger, studenter under DM- och EF-nämnden vid LiTH.
 Styrelsen äger rätt att besluta om inskränkningar i nyttjanderätten.
 
 ### Funktionärer
@@ -45,7 +45,7 @@ Styrelsen består av:
 
 	- En ledamot från vardera D-, Y- och Lingsektionen.
 	- Administrativt ansvarig chef för CYD-poolen, tillsatt av LiU.
-	- Två ledamöter från programnänmden data- och medieteknik.
+	- Två ledamöter från DM- och EF-nämnden.
 	- CYD-poolens systemadministratörer.
 
 
