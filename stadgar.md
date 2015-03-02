@@ -23,12 +23,12 @@ Funktionärer i CYD-poolen är:
 
 ### Åligganden
 
-Det åliger systemadministratörerna att: 
-	
-	- Utefter bästa förmåga underhålla och utveckla CYD-poolen samt dess system.
-	- Erbjuda support vid minst fyra tillfällen i veckan, där varje tillfälle är minst 45 minuter.
-	- Vara lyhörda för behov av IT-stöd som finns hos sektioner och studentorganisationer.
-	- Erbjuda, för sektioner och studenter, attraktiva lösningar. 
+Det åliger systemadministratörerna att:
+
+- Utefter bästa förmåga underhålla och utveckla CYD-poolen samt dess system.
+- Erbjuda support vid minst fyra tillfällen i veckan, där varje tillfälle är minst 45 minuter.
+- Vara lyhörda för behov av IT-stöd som finns hos sektioner och studentorganisationer.
+- Erbjuda, för sektioner och studenter, attraktiva lösningar.
 
 
 ---------
@@ -43,10 +43,10 @@ Styrelsen är CYD-poolens högsta beslutande organ.
 
 Styrelsen består av:
 
-	- En ledamot från vardera D-, Y- och Lingsektionen.
-	- Administrativt ansvarig chef för CYD-poolen, tillsatt av LiU.
-	- Två ledamöter från DM- och EF-nämnden.
-	- CYD-poolens systemadministratörer.
+- En ledamot från vardera D-, Y- och Lingsektionen.
+- Administrativt ansvarig chef för CYD-poolen, tillsatt av LiU.
+- Två ledamöter från DM- och EF-nämnden.
+- CYD-poolens systemadministratörer.
 
 
 Sektionernas ledamöter utses av respektive sektions styrelse.
@@ -57,8 +57,8 @@ Styrelsen utser vid varje mötestillfälle ordförande och sekreterare till någ
 
 Styrelsen åligger att:
 
-	- Sammanträda minst en gång per termin
-	- Skapa riktlinjer för CYD-poolens verksamhet
+- Sammanträda minst en gång per termin
+- Skapa riktlinjer för CYD-poolens verksamhet
 
 ### Beslutsförhet
 
@@ -69,7 +69,7 @@ Rösträtt med en röst tillkommer varje styrelseledamot.
 
 Röstning skall ske öppet. För beslut krävs, om inget annat stadgats, majoritetsbeslut i styrelsen, där majoriteten består av minst tre röster för förslaget.
 
-Vid lika rösttal bordläggs förslaget till nästa styrelsemöte. 
+Vid lika rösttal bordläggs förslaget till nästa styrelsemöte.
 
 ###	Adjungering
 
@@ -97,6 +97,6 @@ Styrelsen tolkar stadgan. Vid oenighet hänskjutes tolkning av stadgan till av L
 ### Stadgeändring
 Stadgaändring beslutas av styrelsen.
 
-Ändringen träder, om inget annat sägs, i kraft efter nästkommande möte godkänt förändringen. Förändringar av föreslagna ändringar vid nästkommande möte behöver ej röstas igenom vid ett senare tillfälle. 
+Ändringen träder, om inget annat sägs, i kraft efter nästkommande möte godkänt förändringen. Förändringar av föreslagna ändringar vid nästkommande möte behöver ej röstas igenom vid ett senare tillfälle.
 
-Mellan de två beslutande mötena bör det vara minst en månad. 
+Mellan de två beslutande mötena bör det vara minst en månad.
