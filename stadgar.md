@@ -3,7 +3,7 @@
 ## Syfte
 
 CYD-poolen är en politiskt och religiöst obunden samarbetsorganisation för studenter studerandes vid program under DM- och EF-nämnden vid Linköpings Universitet i Linköping.
-CYD-poolen har till ändamål att sköta driften av programmens gemensamma datorrum samt webb- applikations- och filhotell.
+CYD-poolen har till ändamål att sköta driften av programmens gemensamma datorrum samt webb-, applikations- och filhotell.
 
 ### Nyttjanderätt
 
@@ -67,7 +67,9 @@ Styrelsen är beslutsför om ordförande samt ytterligare minst två ledamöter 
 ### Rösträtt
 Rösträtt med en röst tillkommer varje styrelseledamot.
 
-Röstning skall ske öppet. För beslut krävs, om inget annat stadgats, minst tre röster för förslaget.
+Röstning skall ske öppet. För beslut krävs, om inget annat stadgats, majoritetsbeslut i styrelsen, där majoriteten består av minst tre röster för förslaget.
+
+Vid lika rösttal bordläggs förslaget till nästa styrelsemöte. 
 
 ###	Adjungering
 
@@ -95,4 +97,6 @@ Styrelsen tolkar stadgan. Vid oenighet hänskjutes tolkning av stadgan till av L
 ### Stadgeändring
 Stadgaändring beslutas av styrelsen.
 
-Ändringen träder, om inget annat sägs, i kraft omgående efter beslut.
+Ändringen träder, om inget annat sägs, i kraft efter nästkommande möte godkänt förändringen. Förändringar av föreslagna ändringar vid nästkommande möte behöver ej röstas igenom vid ett senare tillfälle. 
+
+Mellan de två beslutande mötena bör det vara minst en månad. 
