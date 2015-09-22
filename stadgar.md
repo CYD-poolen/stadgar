@@ -2,7 +2,7 @@
 
 ## Syfte
 
-CYD-poolen är en politiskt och religiöst obunden samarbetsorganisation för studenter studerandes vid program under DM- och EF-nämnden vid Linköpings Universitet i Linköping.
+CYD-poolen är en politiskt och religiöst obunden samarbetsorganisation för studenter studerandes vid program under DM- och EF-nämnden vid Linköpings universitet i Linköping.
 CYD-poolen har till ändamål att sköta driften av programmens gemensamma datorrum samt webb-, applikations- och filhotell.
 
 ### Nyttjanderätt
@@ -23,7 +23,7 @@ Funktionärer i CYD-poolen är:
 
 ### Åligganden
 
-Det åliger systemadministratörerna att:
+Det åligger systemadministratörerna att:
 
 - Utefter bästa förmåga underhålla och utveckla CYD-poolen samt dess system.
 - Erbjuda support vid minst fyra tillfällen i veckan, där varje tillfälle är minst 45 minuter.
@@ -95,7 +95,7 @@ Justerat protokoll skall distribueras till respektive styrelseledamot samt på C
 Styrelsen tolkar stadgan. Vid oenighet hänskjutes tolkning av stadgan till av LiU tillsatt administrativ chef.
 
 ### Stadgeändring
-Stadgaändring beslutas av styrelsen.
+Stadgeändring beslutas av styrelsen.
 
 Ändringen träder, om inget annat sägs, i kraft efter nästkommande möte godkänt förändringen. Förändringar av föreslagna ändringar vid nästkommande möte behöver ej röstas igenom vid ett senare tillfälle.
 
